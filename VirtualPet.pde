@@ -3,8 +3,8 @@ void setup(size(800,800);){
   //some of your code here
 }
 void draw(noStroke();
-size(800,800);
-fill(0,0,0);
+noStroke();
+background(18,58,198);
 noStroke();
 //The body
 fill(0,0,0);
@@ -15,9 +15,9 @@ arc(350,510,100,125,0,PI);
 arc(575,510,100,125,0,PI);
 arc(600,490,100,125,0,PI);
 //The ears
-fill(252,252,252);
-triangle(150,20,20,280,280,280);
-triangle(150,20,20,280,280,280);
+fill(0,0,0);
+triangle(200, 300, 250, 230, 250, 300);
+triangle(300, 300, 350, 230, 350, 300);
 //Eyes
 fill(252,245,3);
 ellipse(230,350,45,40);

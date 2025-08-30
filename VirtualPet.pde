@@ -1,7 +1,7 @@
 void setup() {
   size(800,800);
 }
-void draw(noStroke();
+void draw(){
 noStroke();
 background(18,58,198);
 noStroke();
@@ -36,7 +36,4 @@ arc(275,390,25,25,0,PI);
 //The Tail
 fill(0,0,0);
 ellipse(665,495,20,150);
-){
-  //more of your code here
 }
-

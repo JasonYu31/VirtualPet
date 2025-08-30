@@ -4,7 +4,6 @@ void setup() {
 void draw(){
 noStroke();
 background(18,58,198);
-noStroke();
 //The body
 fill(0,0,0);
 ellipse(275,350,180,175);

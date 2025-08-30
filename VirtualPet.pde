@@ -1,6 +1,5 @@
-
-void setup(size(800,800);){
-  //some of your code here
+void setup() {
+  size(800,800);
 }
 void draw(noStroke();
 noStroke();
